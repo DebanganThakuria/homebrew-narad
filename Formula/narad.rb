@@ -4,8 +4,8 @@
 class Narad < Formula
   desc "Queue-first message broker in a single binary - plain HTTP in, at-least-once out"
   homepage "https://debanganthakuria.github.io/narad/"
-  url "https://github.com/DebanganThakuria/narad/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "9439b76b0c0eb94e0872c323f20e1ac6cb0dcf2328979aef75f02ab81054690b"
+  url "https://github.com/DebanganThakuria/narad/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "8accb8e7766a7021b58e203b611015b0cc03fd9a0f01ea03259a07bbe90d283a"
   license "Apache-2.0"
   head "https://github.com/DebanganThakuria/narad.git", branch: "master"
 
